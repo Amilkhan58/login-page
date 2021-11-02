@@ -1,0 +1,46 @@
+body{
+    background-color: firebrick;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#box{
+    display: grid;
+
+}
+#heading{
+    margin-left: 50px;
+    color: floralwhite;
+}
+#user{
+    font-size: 20px;
+    margin: 20px;
+    margin-left: 0px;
+    color: floralwhite;
+}
+#pass{
+    font-size: 20px;
+    margin: 20px;
+    margin-left: 0px;
+    color: floralwhite;
+}
+.input{
+    padding: 5px;
+    width: 300px;
+    border-radius: 50px;
+
+
+}
+#login-btn{
+    padding: 10px;
+    font-size: 20px;
+
+     color: aliceblue;
+     background-color: blue;
+
+     width: fit-content;
+      border: 2px solid black;
+     border-radius: 10px;
+      margin-top: 10px;
+}
